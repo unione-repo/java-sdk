@@ -1,4 +1,8 @@
 # java-sdk
+> [!WARNING]
+> **Deprecated.** This SDK is no longer maintained. Use [unione-java-sdk](https://github.com/unione-repo/unione-java-sdk) instead.
+>
+> Migration: replace `com.unione:java-sdk` with `io.unione:unione-java-sdk` in your build file. The client covers the same Web API methods; see the new README for usage.
 
 Web API
 
